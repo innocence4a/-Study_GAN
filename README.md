@@ -1,1 +1,1 @@
-# -Study_GAN
+# Study_GAN
